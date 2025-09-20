@@ -1,0 +1,189 @@
+[
+  {
+    "id": 1,
+    "name": "Golden Temple Langar",
+    "city": "Amritsar",
+    "country": "India",
+    "lat": 31.6200,
+    "lng": 74.8765,
+    "timing": "24/7",
+    "description": "The world's largest free kitchen serving over 100,000 people daily",
+    "type": "Gurudwara Langar"
+  },
+  {
+    "id": 2,
+    "name": "Shirdi Sai Baba Temple",
+    "city": "Shirdi",
+    "country": "India",
+    "lat": 19.7645,
+    "lng": 74.4763,
+    "timing": "5:00 AM - 11:30 PM",
+    "description": "Free meals served to devotees visiting the sacred Sai Baba temple",
+    "type": "Temple Bhandara"
+  },
+  {
+    "id": 3,
+    "name": "Tirupati Balaji Temple",
+    "city": "Tirupati",
+    "country": "India",
+    "lat": 13.6288,
+    "lng": 79.4192,
+    "timing": "4:00 AM - 12:00 AM",
+    "description": "Anna Prasadam served to millions of pilgrims annually",
+    "type": "Temple Annadanam"
+  },
+  {
+    "id": 4,
+    "name": "ISKCON Temple",
+    "city": "Vrindavan",
+    "country": "India",
+    "lat": 27.5706,
+    "lng": 77.7006,
+    "timing": "6:00 AM - 9:00 PM",
+    "description": "Krishna Prasadam distributed to devotees and visitors",
+    "type": "Temple Prasadam"
+  },
+  {
+    "id": 5,
+    "name": "Akshardham Temple",
+    "city": "Delhi",
+    "country": "India",
+    "lat": 28.6127,
+    "lng": 77.2773,
+    "timing": "9:00 AM - 6:30 PM",
+    "description": "Spiritual food service in the heart of India's capital",
+    "type": "Temple Bhandara"
+  },
+  {
+    "id": 6,
+    "name": "Dargah Ajmer Sharif",
+    "city": "Ajmer",
+    "country": "India",
+    "lat": 26.4499,
+    "lng": 74.6399,
+    "timing": "24/7",
+    "description": "Langar served at the shrine of Khwaja Moinuddin Chishti",
+    "type": "Dargah Langar"
+  },
+  {
+    "id": 7,
+    "name": "Jagannath Temple",
+    "city": "Puri",
+    "country": "India",
+    "lat": 19.8135,
+    "lng": 85.8312,
+    "timing": "5:00 AM - 12:00 PM, 7:00 PM - 9:00 PM",
+    "description": "Mahaprasad served at Lord Jagannath's temple",
+    "type": "Temple Mahaprasad"
+  },
+  {
+    "id": 8,
+    "name": "Gurudwara Bangla Sahib",
+    "city": "New Delhi",
+    "country": "India",
+    "lat": 28.6344,
+    "lng": 77.2066,
+    "timing": "24/7",
+    "description": "Free community kitchen serving thousands daily in Delhi",
+    "type": "Gurudwara Langar"
+  },
+  {
+    "id": 9,
+    "name": "Jivdani Mandir",
+    "city": "Virar",
+    "country": "India",
+    "lat": 19.4559,
+    "lng": 72.8081,
+    "timing": "5:00 AM - 10:00 PM",
+    "description": "Sacred hilltop temple serving free prasadam to devotees and pilgrims",
+    "type": "Temple Bhandara"
+  },
+  {
+    "id": 10,
+    "name": "Boisar Community Kitchen",
+    "city": "Boisar",
+    "country": "India",
+    "lat": 19.8033,
+    "lng": 72.7561,
+    "timing": "11:00 AM - 3:00 PM, 7:00 PM - 9:00 PM",
+    "description": "Local community-run free meal service for travelers and needy",
+    "type": "Community Bhandara"
+  },
+  {
+    "id": 11,
+    "name": "Palghar Seva Samiti",
+    "city": "Palghar",
+    "country": "India",
+    "lat": 19.6967,
+    "lng": 72.7653,
+    "timing": "12:00 PM - 2:00 PM, 8:00 PM - 10:00 PM",
+    "description": "Weekly bhandara serving the local community and visitors",
+    "type": "Community Bhandara"
+  },
+  {
+    "id": 12,
+    "name": "Vasai Gurudwara",
+    "city": "Vasai",
+    "country": "India",
+    "lat": 19.4034,
+    "lng": 72.8081,
+    "timing": "6:00 AM - 10:00 PM",
+    "description": "Sikh temple providing langar service to all visitors",
+    "type": "Gurudwara Langar"
+  },
+  {
+    "id": 13,
+    "name": "Siddhivinayak Temple",
+    "city": "Mumbai",
+    "country": "India",
+    "lat": 19.0176,
+    "lng": 72.8562,
+    "timing": "5:30 AM - 10:00 PM",
+    "description": "Famous Ganesh temple serving prasadam to thousands of devotees daily",
+    "type": "Temple Bhandara"
+  },
+  {
+    "id": 14,
+    "name": "Haji Ali Dargah",
+    "city": "Mumbai",
+    "country": "India",
+    "lat": 18.9826,
+    "lng": 72.8093,
+    "timing": "5:30 AM - 10:00 PM",
+    "description": "Iconic mosque and dargah serving free meals to visitors",
+    "type": "Dargah Langar"
+  },
+  {
+    "id": 15,
+    "name": "ISKCON Juhu",
+    "city": "Mumbai",
+    "country": "India",
+    "lat": 19.1075,
+    "lng": 72.8263,
+    "timing": "4:30 AM - 9:00 PM",
+    "description": "Krishna temple offering prasadam and spiritual meals",
+    "type": "Temple Prasadam"
+  },
+  {
+    "id": 16,
+    "name": "Mumbadevi Temple",
+    "city": "Mumbai",
+    "country": "India",
+    "lat": 18.9467,
+    "lng": 72.8342,
+    "timing": "6:00 AM - 10:00 PM",
+    "description": "Ancient temple dedicated to Mumbai's patron goddess, serving prasadam",
+    "type": "Temple Bhandara"
+  },
+  {
+    "id": 17,
+    "name": "Mahalaxmi Temple",
+    "city": "Mumbai",
+    "country": "India",
+    "lat": 18.9735,
+    "lng": 72.8109,
+    "timing": "6:00 AM - 10:00 PM",
+    "description": "Historic temple serving blessed food to devotees",
+    "type": "Temple Bhandara"
+  }
+]
