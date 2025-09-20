@@ -38,7 +38,7 @@ const Footer: React.FC = () => {
           transition={{ duration: 0.6, delay: 0.4 }}
           viewport={{ once: true }}
         >
-          <span>© 2025 Khaiyye Nahh... | Built by Prem Kakade with</span>
+          <span>© 2025 Khaiyye Nahh... | Built by Prem (Maay Baap) with</span>
           <motion.div
             animate={{ scale: [1, 1.2, 1] }}
             transition={{ duration: 1, repeat: Infinity, repeatDelay: 2 }}
